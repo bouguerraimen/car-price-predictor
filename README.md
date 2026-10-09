@@ -2,7 +2,7 @@
 
 🔗 **[Essayer l'application en ligne]([https://TON_LIEN.streamlit.app](https://car-price-predictor-gs4apphxmzrdrqtpxbtygni.streamlit.app/))**
 
-![Capture d'écran](capture.png)
+
 
 ## Problème
 Estimer le prix de revente d'une voiture d'occasion à partir de ses caractéristiques.
