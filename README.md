@@ -1,6 +1,6 @@
 # 🚗 AutoPrix : prédiction du prix de voitures d'occasion
 
-🔗 [Essayer l'application en ligne]([https://TON_LIEN.streamlit.app](https://car-price-predictor-gs4apphxmzrdrqtpxbtygni.streamlit.app/))
+🔗 [Essayer l'application en ligne](https://car-price-predictor-gs4apphxmzrdrqtpxbtygni.streamlit.app/)
 
 
 
